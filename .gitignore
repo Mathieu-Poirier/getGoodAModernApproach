@@ -1,0 +1,8 @@
+# Ignore all .exe files
+*.exe
+
+# Also good to ignore debug files and other build artifacts
+*.obj
+*.o
+*.pdb
+*.ilk
