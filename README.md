@@ -14,3 +14,6 @@ Repository for showcasing my personal study on various fields of computer scienc
 
 ### Statistics and AI Concepts
 [IAmAI](https://i.am.ai/roadmap/)
+
+### The Modern Javascript Tutorial
+[javascript.info](https://javascript.info/)
